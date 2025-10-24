@@ -48,7 +48,7 @@ Google Fonts
 
 Clone this repository:
 
-git clone [https://github.com/your-username/motos-site.git](https://ingridycandido.github.io/IngridyVeiculos/)
+[Ingridy Veiculos](https://ingridycandido.github.io/IngridyVeiculos/)
 
 
 Open the file Motos.html in your browser.
@@ -58,7 +58,11 @@ That’s it — no additional setup required!
 
 A responsive showcase of vehicles for sale, with elegant cards and a clean contact section.
 
-
+<img width="424" height="847" alt="image" src="https://github.com/user-attachments/assets/bc112854-a856-4179-9e1f-c03ab639c8ba" />
+<img width="826" height="885" alt="image" src="https://github.com/user-attachments/assets/57e27227-0bfb-4266-a323-99aa408de7c1" />
+<img width="1259" height="851" alt="image" src="https://github.com/user-attachments/assets/e2026d0a-c4eb-48db-ab30-cd75a4a33bc7" />
+<img width="1442" height="906" alt="image" src="https://github.com/user-attachments/assets/3d33f730-c807-4201-bf6c-ed9b6b705d83" />
+<img width="1436" height="947" alt="image" src="https://github.com/user-attachments/assets/c675228b-c1d5-4241-ac99-75f6a0573aae" />
 
 💡 Next Steps
 
