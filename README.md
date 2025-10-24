@@ -46,12 +46,17 @@ Google Fonts
 
 🚀 How to Run
 
+You can view the project live here:
+👉 Ingridy Veículos - GitHub Pages
+
+Or, if you prefer to run it locally:
+
 Clone this repository:
 
-[Ingridy Veiculos](https://ingridycandido.github.io/IngridyVeiculos/)
+git clone https://github.com/ingridycandido/IngridyVeiculos.git
 
 
-Open the file Motos.html in your browser.
+Open the file index.html in your browser.
 That’s it — no additional setup required!
 
 📷 Preview
@@ -71,8 +76,6 @@ Add more interactivity with JavaScript (e.g., dynamic filtering or animations).
 Create a backend version to manage vehicle data dynamically.
 
 Improve accessibility and SEO.
-
-Host the project using GitHub Pages.
 
 🙋‍♀️ Author
 
