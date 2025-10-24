@@ -48,7 +48,7 @@ Google Fonts
 
 Clone this repository:
 
-git clone https://github.com/your-username/motos-site.git
+git clone [https://github.com/your-username/motos-site.git](https://ingridycandido.github.io/IngridyVeiculos/)
 
 
 Open the file Motos.html in your browser.
