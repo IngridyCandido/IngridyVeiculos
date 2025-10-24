@@ -47,7 +47,7 @@ Google Fonts
 🚀 How to Run
 
 You can view the project live here:
-👉 Ingridy Veículos - GitHub Pages
+👉 Ingridy Veículos - GitHub Pages [https://ingridycandido.github.io/IngridyVeiculos/#]
 
 Or, if you prefer to run it locally:
 
